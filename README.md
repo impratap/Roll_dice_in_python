@@ -1,9 +1,11 @@
 # Roll_dice_in_python
 
-This is a simple Rolling Dice project.
-In this I am using random library
+# Overview
 
-import random
+This is a simple Rolling Dice project. In this I am using random library
+
+## Library
+* random
 
 And from random going to use randint to get number between 1 to 6 when we roll dice...
 
